@@ -12,7 +12,7 @@ body {
 
 #header {
     width: 100%;
-    height: 30vh;
+    height: 50vh;
 }
 
 .container {
@@ -281,8 +281,3 @@ nav .fa-solid {
     }
 }
 
-@media screen and (min-widht: 922px) {
-    .contaent, aside{
-        widht: 100%;
-    }
-}
