@@ -281,8 +281,8 @@ nav .fa-solid {
     }
 }
 
-@media screen and (min-widht: 500px) {
-    .container{
-
+@media screen and (min-widht: 922px) {
+    .contaent, aside{
+        widht: 100%;
     }
 }
